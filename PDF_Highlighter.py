@@ -9,8 +9,6 @@
 # 
 
 import fitz
-import sys
-import pathlib
 
 class highlighter:
     document = None
