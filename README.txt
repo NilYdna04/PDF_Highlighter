@@ -1,6 +1,3 @@
-PDF_Highlighter for Chryselys
-by Andrew Lin
-
 PDF_Highlighter    
     PDF_Highliter is a tool that can highlight text in a PDF document. Text can
     provided as a string or a list of strings. Lists of strings must be provided as 
