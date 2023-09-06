@@ -1,4 +1,4 @@
-PDF Highlighter for Chryselys
+PDF Highlighter
 by Andrew Lin
 
 PDF Highlighter    
